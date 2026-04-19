@@ -1,6 +1,6 @@
 # Hey, I'm Ayomide 👋
 
-I build data-driven systems and tools that solve real-world problems.
+I build data driven systems and tools that solve real world problems.
 
 Currently focused on:
 → Data analysis  
@@ -12,7 +12,7 @@ Currently focused on:
 ## 🚀 What I'm Working On
 
 **Asset Guard**  
-→ Asset management system for tracking and organizing real-world data  
+→ Asset management system for tracking and organizing real world data  
 → Built with Python + structured storage  
 → Focused on scalability, clean design, and data integrity  
 
@@ -27,11 +27,10 @@ Currently focused on:
 Python • SQL • Git • GitHub  
 Learning: Data analysis, system design  
 
----
 
 ## 🎯 Goal
 
-Become a strong data analyst who builds real, useful systems — not just theory.
+Become a strong data analyst who builds real, useful systems not just theory.
 
 ---
 
