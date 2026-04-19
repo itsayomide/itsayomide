@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey, I'm Ayomide 👋
 
-<!--
-**itsayomide/itsayomide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data-driven systems and tools that solve real-world problems.
 
-Here are some ideas to get you started:
+Currently focused on:
+→ Data analysis  
+→ Backend systems (Python)  
+→ Scalable, structured applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+
+**Asset Guard**  
+→ Asset management system for tracking and organizing real-world data  
+→ Built with Python + structured storage  
+→ Focused on scalability, clean design, and data integrity  
+
+**Offer Loop**  
+→ Iterative framework: build → evaluate → refine → repeat  
+→ Used to improve systems through continuous feedback  
+
+---
+
+## 🛠 Tools
+
+Python • SQL • Git • GitHub  
+Learning: Data analysis, system design  
+
+---
+
+## 🎯 Goal
+
+Become a strong data analyst who builds real, useful systems — not just theory.
+
+---
+
+## 📩 Contact
+
+Email: aadedeji507@gmail.com 
